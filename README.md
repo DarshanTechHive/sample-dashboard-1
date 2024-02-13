@@ -4,11 +4,11 @@ Welcome to the sample-dashboard-1 project! This project is built using Spring Bo
 - Java 17
 - MySQL database
 - ## Getting Started
-- 1. Clone the repository:
+  1. Clone the repository:
 
   ```bash
   https://github.com/DarshanTechHive/sample-dashboard-1.git
-  -2.Configure the MySQL database connection in `application.properties`:
+  2.Configure the MySQL database connection in `application.properties`:
 
   ```bash
    spring.datasource.url=jdbc:mysql://localhost:3306/sample_dashboard_1
